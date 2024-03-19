@@ -8,5 +8,6 @@ namespace ConsoleApp3
 {
     internal class Class1
     {
+        //konfliktLocal
     }
 }
